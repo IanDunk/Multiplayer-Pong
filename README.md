@@ -1,3 +1,7 @@
+# Description
+A multiplayer game of Pong using Node.js Socket.io and Phaser.
+The user has the option to practice in single-player mode against a bot with the option of chosing amongst different emoji as a pong ball.
+
 # Multiplayer-Pong
 [Play.](https://multiplayer-pong-ifjs.herokuapp.com/)
 
